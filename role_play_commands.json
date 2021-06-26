@@ -391,6 +391,13 @@
       "formatter_man": "😍😍 | {first_user} скучал по {second_user}",
       "formatter_woman": "😍😍 | {first_user} скучала по {second_user}",
       "all_ending": "всем"
+   },
+   {
+      "name": "курить",
+      "gen": "dat",
+      "formatter_man": "😍😍 | {first_user} позвал курить {second_user}",
+      "formatter_woman": "😍😍 | {first_user} позвала курить {second_user}",
+      "all_ending": "всех"
    }
   ]
 }
