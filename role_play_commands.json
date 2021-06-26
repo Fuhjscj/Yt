@@ -331,14 +331,14 @@
    },
       {
       "name": "люблю",
-      "gen": "acc"
+      "gen": "acc",
       "formatter_man": "🤪😍 | {first_user} безумно люблю {second_user}",
       "formatter_woman": "🤪😍 | {first_user} безумно люблю {second_user}",
       "all_ending": "всех"
    },
    {
       "name": "дать",
-      "gen": "dat
+      "gen": "dat",
       "formatter_man": "👋🤕 | {first_user} дал чапалаха {second_user}",
       "formatter_woman": "👋🤕 | {first_user} дала чапалаха {second_user}",
       "all_ending": "сразу всем"
@@ -359,35 +359,35 @@
    },
    {
       "name": "звёзды",
-      "gen": "ins
+      "gen": "ins",
       "formatter_man": "🌃 | {first_user} посмотрел на звёзды {second_user}",
       "formatter_woman": "🌃 | {first_user} посмотрела на звёзды {second_user}",
       "all_ending": "сразу всех"
    },
    {
       "name": "отлизать к",
-      "gen": "dat
+      "gen": "dat",
       "formatter_man": "✌️👅 | {first_user} отлизал клитор {second_user}",
       "formatter_woman": "✌️👅 | {first_user} отлизала клитор {second_user}",
       "all_ending": "сразу всем девушкам"
    },
    {
       "name": "ятл",
-      "gen": "nom
+      "gen": "nom",
       "formatter_man": "😊👩‍❤️‍👨 | {first_user} Я тебя люблю {second_user}",
       "formatter_woman": "😊👩‍❤️‍👨 | {first_user} Я тебя люблю {second_user}",
       "all_ending": "сразу всех"
    },
    {
       "name": "сокр",
-      "gen": "nom
+      "gen": "nom",
       "formatter_man": "😍😍 | {first_user} Моё сокровенное это {second_user}",
       "formatter_woman": "👉👌😬 | {first_user} Моё сокровенное это {second_user}",
       "all_ending": "это все вы"
    },
    {
       "name": "прилипнуть",
-      "gen": "dat
+      "gen": "dat",
       "formatter_man": "😍😍 | {first_user} скучал по {second_user}",
       "formatter_woman": "😍😍 | {first_user} скучала по {second_user}",
       "all_ending": "всем"
