@@ -269,8 +269,8 @@
   {
       "name": "замуж",
       "gen": "nom",
-      "formatter_man": "🏩 | {first_user} -выходи за меня {second_user}",
-      "formatter_woman": "🏩 | {first_user} -выходи за меня {second_user}",
+      "formatter_man": "🏩 | {first_user} выходи за меня {second_user}",
+      "formatter_woman": "🏩 | {first_user} выходи за меня {second_user}",
       "all_ending": "сказал(а) всем"
    },
     {
@@ -283,8 +283,8 @@
    {
       "name": "слад",
       "gen": "nom",
-      "formatter_man": "🌃 | {first_user} -Сладких снов,душа моя {second_user}",
-      "formatter_woman": "🌃 | {first_user} -Сладких снов,душа моя {second_user}",
+      "formatter_man": "🌃 | {first_user} Сладких снов,душа моя {second_user}",
+      "formatter_woman": "🌃 | {first_user} Сладких снов,душа моя {second_user}",
       "all_ending": "сказал(а) всем"
    },
    {
@@ -297,8 +297,8 @@
    {
       "name": "коть",
       "gen": "nom",
-      "formatter_man": "👩‍❤️‍👨 | {first_user} -Жить без тебя не могу {second_user}",
-      "formatter_woman": "👩‍❤️‍👨 | {first_user} -Жить бя не могу {second_user}",
+      "formatter_man": "👩‍❤️‍👨 | {first_user} Жить без тебя не могу {second_user}",
+      "formatter_woman": "👩‍❤️‍👨 | {first_user} Жить без тебя не могу {second_user}",
       "all_ending": "сказал(а) всем"
    },
    {
