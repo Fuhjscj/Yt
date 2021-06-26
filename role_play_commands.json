@@ -237,6 +237,160 @@
       "formatter_man": "\uD83D\uDC4F | {first_user} шлёпнул {second_user}",
       "formatter_woman": "\uD83D\uDC4F | {first_user} шлёпнула {second_user}",
       "all_ending": "сразу всех"
-    }
+    },
+    {
+      "name": "поцеловать",
+      "gen": "acc",
+      "formatter_man": "😘 | {first_user} поцеловал {second_user}",
+      "formatter_woman": "😘 | {first_user} поцеловала {second_user}",
+      "all_ending": "сразу всех"
+    },
+   {
+      "name": "люб",
+      "gen": "acc",
+      "formatter_man": "😍 | {first_user} признался в любви {second_user}",
+      "formatter_woman": "😍 | {first_user} призналася в любви {second_user}",
+      "all_ending": "сразу всех"
+   },
+   {
+      "name": "засос",
+      "gen": "acc",
+      "formatter_man": "😗⚫ | {first_user} оставил засос на теле {second_user}",
+      "formatter_woman": "😗⚫ | {first_user} оставила засос на теле {second_user}",
+      "all_ending": "сразу всем"
+   },
+  {
+      "name": "сэм",
+      "gen": "acc",
+      "formatter_man": "🍾 | {first_user} употребил самогон с {second_user}",
+      "formatter_woman": "🍾 | {first_user} употребила самогон с {second_user}",
+      "all_ending": "всеми"
+   },
+  {
+      "name": "замуж",
+      "gen": "acc",
+      "formatter_man": "🏩 | {first_user} выходи за меня {second_user}",
+      "formatter_woman": "🏩 | {first_user} выходи за меня {second_user}",
+      "all_ending": "сказал(а) всем"
+   },
+    {
+      "name": "доб",
+      "gen": "acc",
+      "formatter_man": "🌇 | {first_user} доброе утро,Солнце {second_user}",
+      "formatter_woman": "🌇 | {first_user} доброе утро,Солнце {second_user}",
+      "all_ending": "все"
+   },
+   {
+      "name": "слад",
+      "gen": "acc",
+      "formatter_man": "🌃 | {first_user} Сладких снов,душа моя {second_user}",
+      "formatter_woman": "🌃 | {first_user} Сладких снов,душа моя {second_user}",
+      "all_ending": "сказал(а) всем"
+   },
+   {
+      "name": "трог",
+      "gen": "acc",
+      "formatter_man": "👉 | {first_user} потрогал за попку {second_user}",
+      "formatter_woman": "👉 | {first_user} потрогала за попку {second_user}",
+      "all_ending": "сразу всех"
+   },
+   {
+      "name": "коть",
+      "gen": "acc",
+      "formatter_man": "👩‍❤️‍👨 | {first_user} Жить без тебя не могу {second_user}",
+      "formatter_woman": "👩‍❤️‍👨 | {first_user} Жить без тебя не могу {second_user}",
+      "all_ending": "сказал(а) всем"
+   },
+   {
+      "name": "сломать шею",
+      "gen": "acc",
+      "formatter_man": "🤜😱 | {first_user} сломал шею {second_user}",
+      "formatter_woman": "🤜😱 | {first_user} сломала шею {second_user}",
+      "all_ending": "сразу всем"
+   },
+   {
+      "name": "дрочка",
+      "gen": "acc",
+      "formatter_man": "👀💦 | {first_user} подрочил на {second_user}",
+      "formatter_woman": "👀💦 | {first_user} подрочила на {second_user}",
+      "all_ending": "всех сразу"
+   },
+   {
+      "name": "спать",
+      "gen": "acc",
+      "formatter_man": "🥱💤 | {first_user} отправил спать {second_user}",
+      "formatter_woman": "🥱💤 | {first_user} отправила спать {second_user}",
+      "all_ending": "сразу всех"
+   },
+    {
+      "name": "тьмок",
+      "gen": "acc",
+      "formatter_man": "😘😊 | {first_user} тьмокнул {second_user}",
+      "formatter_woman": "😘😊 | {first_user} тьмокнула {second_user}",
+      "all_ending": "сразу всех"
+   },
+      {
+      "name": "люблю",
+      "gen": "acc",
+      "formatter_man": "🤪😍 | {first_user} безумно люблю {second_user}",
+      "formatter_woman": "🤪😍 | {first_user} безумно люблю {second_user}",
+      "all_ending": "всех"
+   },
+   {
+      "name": "дать",
+      "gen": "acc",
+      "formatter_man": "👋🤕 | {first_user} дал чапалаха {second_user}",
+      "formatter_woman": "👋🤕 | {first_user} дала чапалаха {second_user}",
+      "all_ending": "сразу всем"
+   },
+   {
+      "name": "чмаф",
+      "gen": "acc",
+      "formatter_man": "💋😊 | {first_user} страстно поцеловал {second_user}",
+      "formatter_woman": "💋😊 | {first_user} страстно поцеловала {second_user}",
+      "all_ending": "сразу всех"
+   },
+   {
+      "name": "тыя",
+      "gen": "acc",
+      "formatter_man": "💯❤️ | {first_user} вместе навсегда с {second_user}",
+      "formatter_woman": "💯❤️ | {first_user} вместе навсегда с {second_user}",
+      "all_ending": "сразу всех"
+   },
+   {
+      "name": "звёзды",
+      "gen": "acc",
+      "formatter_man": "🌃 | {first_user} посмотрел на звёзды {second_user}",
+      "formatter_woman": "🌃 | {first_user} посмотрела на звёзды {second_user}",
+      "all_ending": "сразу всех"
+   },
+   {
+      "name": "отлизать к",
+      "gen": "acc",
+      "formatter_man": "✌️👅 | {first_user} отлизал клитор {second_user}",
+      "formatter_woman": "✌️👅 | {first_user} отлизала клитор {second_user}",
+      "all_ending": "сразу всем девушкам"
+   },
+   {
+      "name": "ятл",
+      "gen": "acc",
+      "formatter_man": "😊👩‍❤️‍👨 | {first_user} Я тебя люблю {second_user}",
+      "formatter_woman": "😊👩‍❤️‍👨 | {first_user} Я тебя люблю {second_user}",
+      "all_ending": "сразу всех"
+   },
+   {
+      "name": "сокр",
+      "gen": "acc",
+      "formatter_man": "😍😍 | {first_user} Моё сокровенное это {second_user}",
+      "formatter_woman": "👉👌😬 | {first_user} Моё сокровенное это {second_user}",
+      "all_ending": "это все вы"
+   },
+   {
+      "name": "прилипнуть",
+      "gen": "acc",
+      "formatter_man": "😍😍 | {first_user} скучал по {second_user}",
+      "formatter_woman": "😍😍 | {first_user} скучала по {second_user}",
+      "all_ending": "всем"
+   }
   ]
 }
