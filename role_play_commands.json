@@ -247,7 +247,7 @@
     },
    {
       "name": "люб",
-      "gen": "acc"
+      "gen": "acc",
       "formatter_man": "😍 | {first_user} признался в любви {second_user}",
       "formatter_woman": "😍 | {first_user} призналася в любви {second_user}",
       "all_ending": "сразу всех"
