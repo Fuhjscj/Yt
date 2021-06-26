@@ -331,7 +331,7 @@
    },
       {
       "name": "люблю",
-      "gen": "acc
+      "gen": "acc"
       "formatter_man": "🤪😍 | {first_user} безумно люблю {second_user}",
       "formatter_woman": "🤪😍 | {first_user} безумно люблю {second_user}",
       "all_ending": "всех"
