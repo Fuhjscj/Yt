@@ -381,8 +381,8 @@
    {
       "name": "сокр",
       "gen": "nom",
-      "formatter_man": "😍😍 | {first_user} Моё сокровенное это {second_user}",
-      "formatter_woman": "👉👌😬 | {first_user} Моё сокровенное это {second_user}",
+      "formatter_man": "😍🤩 | {first_user} Моё сокровенное это {second_user}",
+      "formatter_woman": "😍🤩 | {first_user} Моё сокровенное это {second_user}",
       "all_ending": "это все вы"
    },
    {
