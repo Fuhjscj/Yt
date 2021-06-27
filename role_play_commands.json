@@ -394,7 +394,7 @@
    },
    {
       "name": "курить",
-      "gen": "dat",
+      "gen": acc",
       "formatter_man": "😗🚬 | {first_user} позвал курить {second_user}",
       "formatter_woman": "😗🚬 | {first_user} позвала курить {second_user}",
       "all_ending": "всех"
