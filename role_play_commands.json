@@ -398,6 +398,20 @@
       "formatter_man": "😗🚬 | {first_user} позвал курить {second_user}",
       "formatter_woman": "😗🚬 | {first_user} позвала курить {second_user}",
       "all_ending": "всех"
+   },
+   {
+      "name": "сосать",
+      "gen": "nom",
+      "formatter_man": "😗🚬 | {first_user} -Будешь сосать? Спросил у {second_user}",
+      "formatter_woman": "😗🚬 | {first_user} -Будешь лизать? Спросила у {second_user}",
+      "all_ending": "всех"
+   },
+   {
+      "name": "сиськи",
+      "gen": "acc",
+      "formatter_man": "😗🚬 | {first_user} попросил скинуть сиськи {second_user}",
+      "formatter_woman": "😗🚬 | {first_user} попросила скинуть пресс {second_user}",
+      "all_ending": "всех"
    }
   ]
 }
