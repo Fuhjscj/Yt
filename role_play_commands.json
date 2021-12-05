@@ -1,6 +1,4 @@
 {
-  "role_play_commands": [
-    {
       "name": "выебать",
       "gen": "acc",
       "formatter_man": "\uD83D\uDC49\uD83D\uDC4C\uD83D\uDE2C | {first_user} принудил к жёсткому интиму {second_user}",
@@ -413,5 +411,3 @@
       "formatter_woman": "👀🙏🏻 | {first_user} попросила скинуть пресс {second_user}",
       "all_ending": "всех"
    }
-  ]
-}
